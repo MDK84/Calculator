@@ -12,4 +12,4 @@
 
 
 
-<center>**thank you** </center>
+**thank you** 
