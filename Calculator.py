@@ -151,6 +151,7 @@ class Calculator:
             print("***  Thanks for using this program  ***")
             print("***             Goodbye             ***")
             print("*** ", self.UserName, " ***")
+            sleep(5)
 
 if __name__ == "__main__":
         start = Calculator()
