@@ -1,3 +1,4 @@
+#!python3
 from hashlib import sha256
 from time import sleep
 
