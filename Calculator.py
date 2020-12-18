@@ -78,7 +78,7 @@ class Calculator:
                     self.Answer2 = int(input("Enter second number please = "))
                     if self.Answer2 != 0:
                             break
-                print(self.Answer1 , "/" , self.Answer2 , "=" , self.Answer1 / self.Answer2 )
+                print(self.Answer1 , "÷" , self.Answer2 , "=" , self.Answer1 / self.Answer2 )
                 sleep(0.5)
 
         self.operator = str(input("If you want to continue?  1.Yes    2.No = "))
@@ -133,7 +133,7 @@ class Calculator:
                     self.Answer2 = int(input("Enter second number please = "))
                     if self.Answer2 != 0:
                             break
-                print(self.Answer1 , "/" , self.Answer2 , "=" , self.Answer1 / self.Answer2 )
+                print(self.Answer1 , "÷" , self.Answer2 , "=" , self.Answer1 / self.Answer2 )
                 sleep(0.5)
 
             self.operator = str(input("If you want to continue?  1.Yes    2.No = "))
