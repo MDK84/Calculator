@@ -1,3 +1,5 @@
+# Working on this project has been stopped
+# Thanks for helping us
 # Calculator DoostanKhas
 
 ### Features!
